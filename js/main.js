@@ -1,0 +1,1 @@
+document.querySelector("#robotron").addEventLitener("click",con)
